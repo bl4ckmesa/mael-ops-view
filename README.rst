@@ -1,3 +1,7 @@
+Note: this fork is to eventually support an operational view of the Maelstrom orchestrator: https://github.com/maelstromapp/maelstrom
+
+Currently it's a boring fork of the awesome job hjacobs already did.  I hope to change none of the UI; just modify it to print Maelstrom resource instead of k8s.  If possible, make this additive.
+
 ===========================
 Kubernetes Operational View
 ===========================
